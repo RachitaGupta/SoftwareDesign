@@ -1,0 +1,69 @@
+[class^="sprite-"],
+[class*="sprite-"] {
+  	  display: inline-block;
+	  width: 17px;
+	  height: 16px;
+	  *margin-right: .3em;
+	  line-height: 14px;
+	  vertical-align: text-top;
+	  background-image: url("../icons/icons.png");
+	  background-position: 14px 14px;
+	  background-repeat: no-repeat;
+}
+[class^="sprite-"]:last-child,
+[class*=" sprite-"]:last-child {
+  	*margin-left: 0;
+}
+.sprite {
+    background-image: url(../icons/icons.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-cube {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -5px;
+}
+
+.sprite-github {
+    width: 30px;
+    height: 30px;
+    background-position: -47px -5px;
+}
+
+.sprite-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -47px -45px;
+}
+
+.sprite-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -87px -5px;
+}
+
+.sprite-pyramid {
+    width: 32px;
+    height: 32px;
+    background-position: -87px -45px;
+}
+
+.sprite-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -87px;
+}
+
+.sprite-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -45px -87px;
+}
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -85px -87px;
+}
